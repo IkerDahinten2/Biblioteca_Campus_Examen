@@ -18,9 +18,9 @@ biblioteca_campus/
         └── ERM.png
 
 ## Diagramas
-###Diagrama Fisico
+### Diagrama Fisico
 ![Diagrama_Fisico](storage/diagrams/diagrama_fisico.png)
-###Diagrama Logico
+### Diagrama Logico
 ![Diagrama_Logico](storage/diagrams/diagrama_logico.png)
 
 ## Consultas SQL del Sistema
